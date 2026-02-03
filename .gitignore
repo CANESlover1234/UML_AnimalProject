@@ -39,3 +39,6 @@
 
 # debug information files
 *.dwo
+/.vs/UML_AnimalProject
+/UML_Anim.344228c8/x64/Debug/UML_Anim.344228c8.tlog
+/UML_Anim.344228c8/x64/Debug
